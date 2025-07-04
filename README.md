@@ -29,7 +29,7 @@ As of Ubuntu 22.04, those who want to easily prepare non-trivial ZFS setups (e.g
 
 The program currently supports:
 
-- Ubuntu Desktop 18.04.x/20.04/22.04 Live
+- Ubuntu Desktop 24.04 Live
 - Ubuntu Server 18.04.x/20.04/22.04 Live
 - Linux Mint 19.x, 20
 - Debian 10.x/11.x Live (desktop environment required)
